@@ -1,4 +1,3 @@
-Current configuration : 1156 bytes
 !
 version 15.0
 no service timestamps log datetime msec
