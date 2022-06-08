@@ -213,7 +213,7 @@ interface Se0/0/0
 description ita-pb
 clock rate 56000
 ip address 200.200.76.237 255.255.255.252
-ipv6 address 2001:DB8:ACAD:32FF::3:1/112
+ipv6 address 2001:DB8:ACAD:4CFF::3:1/112
 ipv6 enable
 no shutdown
 exit
