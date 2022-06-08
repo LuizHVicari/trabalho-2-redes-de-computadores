@@ -1,4 +1,5 @@
 Scripts utilizados na configuração dos switches
+Os scripts abaixo devem ser executados no switch indicado.
 
 Matriz:
 

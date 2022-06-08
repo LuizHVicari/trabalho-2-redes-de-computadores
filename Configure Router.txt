@@ -1,4 +1,5 @@
-Scripts utilizados na configuração dos roteadores
+Scripts utilizados na configuração dos roteadores.
+Os scripts abaixo devem ser executados no roteador indicado. É aconselhável que as parte das senhas seja executada após os testes de rede, para facilitar modificações que venham a ser necessárias.
 
 Pato Branco:
 
