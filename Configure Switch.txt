@@ -1,0 +1,41 @@
+Matriz:
+
+enable
+conf t
+hostname sw-matriz-lh
+ip default-gateway 200.200.76.1
+interface vlan1
+description Matriz
+ip address 200.200.76.2 255.255.255.192
+no shutdown
+exit
+exit
+wr
+
+Filial 1:
+
+enable
+conf t
+hostname sw-filial1-lh
+ip default-gateway 200.200.76.65
+interface vlan1
+description Filial_1
+ip address 200.200.76.66 255.255.255.224
+no shutdown
+exit
+exit
+wr
+
+Filial 2:
+
+enable
+conf t
+hostname sw-filial2-lh
+ip default-gateway 200.200.76.97
+interface vlan1
+description Filial_2
+ip address 200.200.76.98 255.255.255.224
+no shutdown
+exit
+exit
+wr
