@@ -152,13 +152,13 @@
 
 
 ## Arquivos de Configuração dos Dispositivos Intermediários (roteadores e switches)
-- [ ] ![Roteador Pato Branco](r-pb-nnn.pkt)
-- [ ] ![Roteador Francisco Beltrão](r-fb-nnn.pkt)
-- [ ] ![Roteador Vitorino](r-vit-nnn.pkt)
-- [ ] ![Roteador Itapejara D'Oeste](r-ita-nnn.pkt)
-- [ ] ![Roteador Coronel Vivida](r-cv-nnn.pkt)
-- [ ] ![Switch Pato Branco](sw-pb-nnn.pkt)
-- [ ] ![Switch Francisco Beltrão](sw-fb-nnn.pkt)
-- [ ] ![Switch Coronel Vivida](sw-cv-nnn.pkt)
+- [ ] ![Roteador Pato Branco](r-pb-lh.txt)
+- [ ] ![Roteador Francisco Beltrão](r-fb-lh.txt)
+- [ ] ![Roteador Vitorino](r-vit-lh.txt)
+- [ ] ![Roteador Itapejara D'Oeste](r-ita-lh.txt)
+- [ ] ![Roteador Coronel Vivida](r-cv-lh.txt)
+- [ ] ![Switch Pato Branco](sw-pb-lh.txt)
+- [ ] ![Switch Francisco Beltrão](sw-fb-lh.txt)
+- [ ] ![Switch Coronel Vivida](sw-cv-lh.txt)
 
 
