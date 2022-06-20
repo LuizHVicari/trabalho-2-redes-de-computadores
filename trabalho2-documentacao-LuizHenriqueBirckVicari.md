@@ -156,7 +156,7 @@
 - [ ] ![Roteador Francisco Beltrão](r-fb-lh.txt)
 - [ ] ![Roteador Vitorino](r-vit-lh.txt)
 - [ ] ![Roteador Itapejara D'Oeste](r-ita-lh.txt)
-- [ ] ![Roteador Coronel Vivida](r-cv-lh.txt)
+- [ ] ![Roteador Coronel Vivida](r-cvv-lh.txt)
 - [ ] ![Switch Pato Branco](sw-matriz-lh.txt)
 - [ ] ![Switch Francisco Beltrão](sw-filial1-lh.txt)
 - [ ] ![Switch Coronel Vivida](sw-filial2-lh.txt)
